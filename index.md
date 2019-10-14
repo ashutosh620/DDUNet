@@ -10,7 +10,7 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 
 ```markdown
 Syntax highlighted code block
-
+<audio ref='themeSong' src="ashutosh620.github.io/Audios/DDUNet/file1.mp3" autoPlay loop></audio>
 # Header 1
 ## Header 2
 ### Header 3
